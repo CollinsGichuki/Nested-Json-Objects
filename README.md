@@ -11,6 +11,7 @@ An simple android app that demonstrates consuming nested Json Objects
 ### Description
 
 This project consumes [JSONPlaceholder's fake API](https://jsonplaceholder.typicode.com/users/1) uisng Retrofit and Gson Libraries.
+It is the supportng code found in [this](https://dev.to/collinsgichuki/parsing-nested-json-objects-in-android-478l) Dev.to blog.
 
 
 
